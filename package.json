@@ -1,0 +1,22 @@
+{
+  "name": "healthyeating",
+  "version": "1.0.0",
+  "description": "health tips",
+  "main": "home.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehemagrace/healthyeating.git"
+  },
+  "author": "Rehema Grace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rehemagrace/healthyeating/issues"
+  },
+  "homepage": "https://github.com/rehemagrace/healthyeating#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
